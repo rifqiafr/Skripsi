@@ -14,9 +14,8 @@ Penelitian ini membandingkan tiga model transfer learning (**DenseNet201, ResNet
 ## 📂 Struktur Repositori
 ```
 📁 Data Penelitian Sebelumnya   # Data rujukan penelitian terdahulu
- └── 📁 Dataset                 # Dataset citra Landsat-8
-
-📁 Evaluasi                     # Hasil evaluasi model (confusion matrix, laporan)
+📁 Dataset                      # Dataset citra Landsat-8
+📁 Evaluasi                     # Hasil evaluasi model (confusion matrix dan grafik training)
 📁 Hasil Klasifikasi Raster     # Hasil klasifikasi raster
 📁 Laporan dan Jurnal           # Laporan, jurnal, dan dokumentasi
 📁 Model Revisi                 # Model revisi
